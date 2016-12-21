@@ -58,11 +58,11 @@ namespace Tutorial
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "265546984895-jp5lkk9vki7qdahvj0adadcv4k1okoi2.apps.googleusercontent.com",
+                ClientSecret = "OjUCuiK8TFS7cnIJ8cT4p6v4"
+            });
         }
     }
 }

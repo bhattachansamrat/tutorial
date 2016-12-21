@@ -1,0 +1,9 @@
+Google client Id
+265546984895-jp5lkk9vki7qdahvj0adadcv4k1okoi2.apps.googleusercontent.com
+
+Google client secret
+OjUCuiK8TFS7cnIJ8cT4p6v4
+
+
+Google cloud sql API key
+AIzaSyD9H2xU9LDySej_-pDcYasVsvq1VfI9Q2A

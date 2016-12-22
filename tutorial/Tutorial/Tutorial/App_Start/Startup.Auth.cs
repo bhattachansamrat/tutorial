@@ -54,9 +54,9 @@ namespace Tutorial
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "1825139181086393",
+               appSecret: "fd551329e05976a66f62a2a654b1acaf");
 
             app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             {

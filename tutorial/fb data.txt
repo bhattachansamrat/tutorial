@@ -1,0 +1,5 @@
+FB app ID
+1825139181086393
+
+app secred
+fd551329e05976a66f62a2a654b1acaf

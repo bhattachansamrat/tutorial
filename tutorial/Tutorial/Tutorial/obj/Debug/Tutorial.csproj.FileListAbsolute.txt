@@ -176,3 +176,5 @@ D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\Microsoft.Owin.Security.Microsoft
 D:\Git\tutorial\tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.csprojResolveAssemblyReference.cache
 D:\Git\tutorial\tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.dll
 D:\Git\tutorial\tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.Migrations.init.resources
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.Cache

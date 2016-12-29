@@ -13,6 +13,8 @@ using Microsoft.Owin.Security;
 using Tutorial.Models;
 using System.Net;
 using System.Net.Mail;
+using Twilio;
+using System.Diagnostics;
 
 namespace Tutorial
 {
@@ -58,8 +60,19 @@ namespace Tutorial
     {
         public Task SendAsync(IdentityMessage message)
         {
-            // Plug in your SMS service here to send a text message.
-            return Task.FromResult(0);
+            // Twilio Begin
+            var Twilio = new TwilioRestClient(
+              System.Configuration.ConfigurationManager.AppSettings["SMSAccountIdentification"],
+              System.Configuration.ConfigurationManager.AppSettings["SMSAccountPassword"]);
+            var result = Twilio.SendMessage(
+              System.Configuration.ConfigurationManager.AppSettings["SMSAccountFrom"],
+              message.Destination, message.Body
+            );
+            //Status is one of Queued, Sending, Sent, Failed or null if the number is not valid
+            Trace.TraceInformation(result.Status);
+            //Twilio doesn't currently have an async API, so return success.
+             return Task.FromResult(0);
+            // Twilio End
         }
     }
 

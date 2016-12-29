@@ -178,3 +178,8 @@ D:\Git\tutorial\tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.dll
 D:\Git\tutorial\tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
 D:\Git\tutorial\tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.Migrations.init.resources
 D:\Git\tutorial\tutorial\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.Cache
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\RestSharp.dll
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\Twilio.Api.dll
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\RestSharp.xml
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\Twilio.Api.pdb
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\Twilio.Api.xml

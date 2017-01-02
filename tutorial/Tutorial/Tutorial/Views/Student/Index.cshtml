@@ -1,0 +1,108 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<style type="text/css">
+    .tablehover {
+        cursor: pointer;
+    }
+</style>
+<div class="container">
+    <div class="row" ng-controller="studentController">
+        <div class="collg4 colmd4 colsm6 colxs12">
+            <form>
+                <div class="formgroup">
+                    <label for="exampleInputEmail1">
+                        Id <input type="text" class="formcontrol" id="Id" placeholder="Enter student ID" readonly="readonly" ng-model="Id">
+                    </label>
+                </div>
+                <div class="formgroup">
+                    <label for="StudentName">
+                        Student Name
+                        <input type="text" class="formcontrol" id="StudentName" placeholder="Enter student Name" required ng-model="StudentName">
+                    </label>
+                </div>
+                <div class="formgroup">
+                    <label for="StudentRollNo">
+                        Student Roll No
+                        <input type="text" class="formcontrol" id="StudentRollNo" placeholder="Enter student Roll No" required ng-model="StudentRollNo">
+                    </label>
+                </div>
+                <div class="formgroup">
+                    <label for="StudentDepartment">
+                        Student Department
+                        <input type="text" class="formcontrol" id="StudentDepartment" placeholder="Enter student Department" required ng-model="StudentDepartment">
+                    </label>
+                </div>
+                <div class="formgroup">
+                    <label for="StudentbatchNo">
+                        Student batch No
+                        <input type="text" class="formcontrol" id="StudentbatchNo" placeholder="Enter student Batch No" required ng-model="StudentbatchNo">
+                    </label>
+                </div>
+                <div class="formgroup">
+                    <label for="StudentYear">
+                        Student Year
+                        <input type="text" class="formcontrol" id="StudentYear" placeholder="Enter student Year" required ng-model="StudentYear">
+                    </label>
+                </div>
+                <button type="submit" class="btn btninfo" id="new" value="New" ng-click="clear()">New</button>
+                <button type="submit" class="btn btninfo" id="save" value="Save" ng-click="save()">Save</button>
+                <button type="submit" class="btn btninfo" id="delete" value="Delete" ng-click="delete()">Delete</button>
+            </form>
+        </div>
+        <div class="collg8 colmd8 colsm6 colxs12">
+            <table class="table tablehover textprimary">
+                <caption> Students List. </caption>
+                <thead>
+                    <tr>
+                        <th> Id</th>
+                        <th> Student Name</th>
+                        <th> Student Roll No </th>
+                        <th> Student Department </th>
+                        <th> Student Batch No </th>
+                        <th> Student Year </th>
+                    </tr>
+                </thead>
+                <tbody ng-repeat="Std in Students">
+                    <tr ng-click="get(Std)">
+                        <td>
+                            <span>
+                                {{Std.Id;}}
+                            </span>
+                        </td>
+                        <td>
+                            <span>
+                                {{Std.StudentName;}}
+                            </span>
+                        </td>
+                        <td>
+                            <span>
+                                {{Std.StudentRollNo;}}
+                            </span>
+                        </td>
+                        <td>
+                            <span>
+                                {{Std.StudentDepartment;}}
+                            </span>
+                        </td>
+                        <td>
+                            <span>
+                                {{Std.StudentbatchNo;}}
+                            </span>
+                        </td>
+                        <td>
+                            <span>
+                                {{Std.StudentYear;}}
+                            </span>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="collg12 colmd12 colsm12 colxs12">
+                <span class="textdanger">
+                    {{Message;}}
+                </span>
+            </div>
+        </div>
+    </div>
+</div>

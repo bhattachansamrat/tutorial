@@ -183,3 +183,11 @@ D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\Twilio.Api.dll
 D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\RestSharp.xml
 D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\Twilio.Api.pdb
 D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\Twilio.Api.xml
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\System.Net.Http.Formatting.dll
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\System.Web.Http.dll
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\System.Web.Http.WebHost.dll
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\System.Net.Http.Formatting.xml
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\System.Web.Http.xml
+D:\Git\tutorial\tutorial\Tutorial\Tutorial\bin\System.Web.Http.WebHost.xml

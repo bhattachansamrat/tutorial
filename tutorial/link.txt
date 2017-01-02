@@ -4,5 +4,17 @@ external login
 https://www.asp.net/mvc/overview/security/create-an-aspnet-mvc-5-app-with-facebook-and-google-oauth2-and-openid-sign-on
 2 factor authentication
 https://www.asp.net/mvc/overview/security/aspnet-mvc-5-app-with-sms-and-email-two-factor-authentication
+angular js 1 web api
+http://www.webdevelopmenthelp.net/2015/12/spa-application-using-angularjs-webapi-all-crud-operations.html
 
-check
+agnular js advance interview question
+http://www.webdevelopmenthelp.net/2016/10/angularjs-interview-questions.html
+
+bootstraps
+http://www.webdevelopmenthelp.net/2016/10/bootstrap-interview-questions.html
+
+web-api question
+http://www.webdevelopmenthelp.net/2014/02/practical-guide-asp-net-web-api.html
+
+projects in angular, leary by building 10 projects
+https://www.udemy.com/learn-angularjs-development/?siteID=s8waqo9RNjU-nS7gbaHqLL2tZTYAcDApIA&LSNPUBID=s8waqo9RNjU

@@ -1,0 +1,17 @@
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll.config
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\bin\Debug\HomeCinema.Data.pdb
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\bin\Debug\EntityFramework.dll
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\bin\Debug\HomeCinema.Entities.dll
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\bin\Debug\EntityFramework.xml
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\bin\Debug\MockData.dll
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\obj\Debug\HomeCinema.Data.Migrations.initial.resources
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\obj\Debug\HomeCinema.Data.csproj.GenerateResource.Cache
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\bin\Debug\App_Data\database.mdf
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Data\bin\Debug\App_Data\database_log.ldf

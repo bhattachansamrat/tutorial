@@ -39,3 +39,12 @@ D:\Git\tutorial\tutorial\Tutorial\HomeCinema\bin\System.Web.Http.WebHost.xml
 D:\Git\tutorial\tutorial\Tutorial\HomeCinema\obj\Debug\HomeCinema.csprojResolveAssemblyReference.cache
 D:\Git\tutorial\tutorial\Tutorial\HomeCinema\obj\Debug\HomeCinema.dll
 D:\Git\tutorial\tutorial\Tutorial\HomeCinema\obj\Debug\HomeCinema.pdb
+D:\git\tutorial\tutorial\Tutorial\HomeCinema\bin\HomeCinema.Data.dll
+D:\git\tutorial\tutorial\Tutorial\HomeCinema\bin\EntityFramework.dll
+D:\git\tutorial\tutorial\Tutorial\HomeCinema\bin\HomeCinema.Entities.dll
+D:\git\tutorial\tutorial\Tutorial\HomeCinema\bin\MockData.dll
+D:\git\tutorial\tutorial\Tutorial\HomeCinema\bin\HomeCinema.Data.pdb
+D:\git\tutorial\tutorial\Tutorial\HomeCinema\bin\EntityFramework.xml
+D:\git\tutorial\tutorial\Tutorial\HomeCinema\bin\HomeCinema.Entities.pdb
+D:\git\tutorial\tutorial\Tutorial\HomeCinema\bin\EntityFramework.SqlServer.dll
+D:\git\tutorial\tutorial\Tutorial\HomeCinema\bin\EntityFramework.SqlServer.xml

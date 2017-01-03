@@ -112,13 +112,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\database.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="App_Data\database_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <DependentUpon>database.mdf</DependentUpon>
-    </Content>
     <Content Include="it\MockData.resources.dll" />
     <Content Include="uk\MockData.resources.dll" />
   </ItemGroup>

@@ -84,3 +84,10 @@ D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Web\bin\zh-CN\FluentValidation.reso
 D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Web\obj\Debug\HomeCinema.Web.csprojResolveAssemblyReference.cache
 D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Web\obj\Debug\HomeCinema.Web.dll
 D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Web\obj\Debug\HomeCinema.Web.pdb
+D:\git\tutorial\tutorial\Tutorial\HomeCinema.Web\bin\AutoMapper.dll
+D:\git\tutorial\tutorial\Tutorial\HomeCinema.Web\bin\AutoMapper.EF6.dll
+D:\git\tutorial\tutorial\Tutorial\HomeCinema.Web\bin\DelegateDecompiler.dll
+D:\git\tutorial\tutorial\Tutorial\HomeCinema.Web\bin\DelegateDecompiler.EntityFramework.dll
+D:\git\tutorial\tutorial\Tutorial\HomeCinema.Web\bin\Mono.Reflection.dll
+D:\git\tutorial\tutorial\Tutorial\HomeCinema.Web\bin\AutoMapper.xml
+D:\git\tutorial\tutorial\Tutorial\HomeCinema.Web\bin\AutoMapper.EF6.xml

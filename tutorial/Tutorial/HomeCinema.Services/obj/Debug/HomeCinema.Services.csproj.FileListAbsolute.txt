@@ -1,0 +1,12 @@
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\HomeCinema.Services.dll
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\HomeCinema.Services.pdb
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\HomeCinema.Data.dll
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\HomeCinema.Entities.dll
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\EntityFramework.dll
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\MockData.dll
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\HomeCinema.Data.pdb
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\HomeCinema.Entities.pdb
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\EntityFramework.xml
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\obj\Debug\HomeCinema.Services.csprojResolveAssemblyReference.cache
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\obj\Debug\HomeCinema.Services.dll
+D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\obj\Debug\HomeCinema.Services.pdb

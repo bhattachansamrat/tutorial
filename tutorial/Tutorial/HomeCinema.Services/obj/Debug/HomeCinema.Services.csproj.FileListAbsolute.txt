@@ -10,3 +10,15 @@ D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\EntityFramework.
 D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\obj\Debug\HomeCinema.Services.csprojResolveAssemblyReference.cache
 D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\obj\Debug\HomeCinema.Services.dll
 D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Services\obj\Debug\HomeCinema.Services.pdb
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\HomeCinema.Services.dll
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\HomeCinema.Services.pdb
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\HomeCinema.Data.dll
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\HomeCinema.Entities.dll
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\EntityFramework.dll
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\MockData.dll
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\HomeCinema.Data.pdb
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\HomeCinema.Entities.pdb
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Services\bin\Debug\EntityFramework.xml
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Services\obj\Debug\HomeCinema.Services.csprojResolveAssemblyReference.cache
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Services\obj\Debug\HomeCinema.Services.dll
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Services\obj\Debug\HomeCinema.Services.pdb

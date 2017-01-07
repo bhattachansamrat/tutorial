@@ -3,3 +3,8 @@ D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Entities\bin\Debug\HomeCinema.Entit
 D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
 D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
 D:\Git\tutorial\tutorial\Tutorial\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\Git\Tutorial\tutorial\Tutorial\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb

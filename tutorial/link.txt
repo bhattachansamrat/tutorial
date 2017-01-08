@@ -19,4 +19,4 @@ http://www.webdevelopmenthelp.net/2014/02/practical-guide-asp-net-web-api.html
 web-api / anuglar js
 https://github.com/chsakell/spa-webapi-angularjs/tree/master/HomeCinema.Services --git hub link
 https://chsakell.com/2015/08/23/building-single-page-applications-using-web-api-and-angularjs-free-e-book/
---Movie Directives
+--Movies

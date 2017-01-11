@@ -1,4 +1,4 @@
-﻿using AutoMapper;
+﻿using HomeCinema.Data.Extensions;
 using HomeCinema.Data.Infrastructure;
 using HomeCinema.Data.Repositories;
 using HomeCinema.Entities;

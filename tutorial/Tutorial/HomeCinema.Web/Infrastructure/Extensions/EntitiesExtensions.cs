@@ -23,10 +23,17 @@ namespace HomeCinema.Web.Infrastructure.Extensions
             customer.RegistrationDate = (customer.RegistrationDate == DateTime.MinValue ? DateTime.Now : customerVm.RegistrationDate);
         }
 
-        public static bool UserExists(this IEntityBaseRepository<Customer> customer, string email, string identity)
+        public static void UpdateMovie(this Movie movie, MovieViewModel movieVm)
         {
-            var customerList = customer.FindBy(s => s.Email == email && s.IdentityCard == identity);
-            return customerList.Any();
+            movie.Title = movieVm.Title;
+            movie.Description = movieVm.Description;
+            movie.GenreId = movieVm.GenreId;
+            movie.Director = movieVm.Director;
+            movie.Writer = movieVm.Writer;
+            movie.Producer = movieVm.Producer;
+            movie.Rating = movieVm.Rating;
+            movie.TrailerURI = movieVm.TrailerURI;
+            movie.ReleaseDate = movieVm.ReleaseDate;
         }
     }
 }

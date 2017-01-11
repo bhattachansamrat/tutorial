@@ -18,28 +18,19 @@ namespace HomeCinema.Web.Mappings
         [Obsolete]
         protected override void Configure()
         {
-            Mapper.Initialize(cfg =>
-            {
+            var config = new MapperConfiguration(cfg => {
                 cfg.CreateMap<Movie, MovieViewModel>()
                 .ForMember(vm => vm.Genre, map => map.MapFrom(m => m.Genre.Name))
                 .ForMember(vm => vm.GenreId, map => map.MapFrom(m => m.Genre.ID))
                 .ForMember(vm => vm.IsAvailable, map => map.MapFrom(m => m.Stocks.Any(s => s.IsAvailable)))
                 .ForMember(vm => vm.NumberOfStocks, map => map.MapFrom(m => m.Stocks.Count))
-                .ForMember(vm => vm.Image, map => map.MapFrom(m => string.IsNullOrEmpty(m.Image) == true ? "unknown.jpg" : m.Image));
+                .ForMember(vm => vm.Image, map => map.MapFrom(m => string.IsNullOrEmpty(m.Image) ? "unknown.jpg" : m.Image));
 
                 cfg.CreateMap<Customer, CustomerViewModel>();
-                //Movie movie = null;
-                //cfg.CreateMap<Movie, MovieViewModel>()
-                //    .ForMember(vm => vm.Genre, map => map.MapFrom(src => movie.Genre.Movies))
-                //            .ForMember(vm => vm.GenreId, map => map.MapFrom(src => movie.Genre.ID))
-                //            .ForMember(vm => vm.IsAvailable, map => map.MapFrom(src => movie.Stocks.Any(s => s.IsAvailable)))
-                //            .ForMember(vm => vm.NumberOfStocks, map => map.MapFrom(src => movie.Stocks.Count))
-                //            .ForMember(vm => vm.Image, map => map.MapFrom(src => string.IsNullOrEmpty(movie.Image) == true ? "unknown.jpg" : movie.Image));
 
                 cfg.CreateMap<Genre, GenreViewModel>()
-                    .ForMember(vm => vm.NumberOfMovies, map => map.MapFrom(g => g.Movies.Count()));
+                .ForMember(vm => vm.NumberOfMovies, map => map.MapFrom(g => g.Movies.Count()));
             });
-
             //Mapper.CreateMap<Movie, MovieViewModel>()
             //.ForMember(vm => vm.Genre, map => map.MapFrom(m => m.Genre.Name))
             //.ForMember(vm => vm.GenreId, map => map.MapFrom(m => m.Genre.ID))
